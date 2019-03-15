@@ -26,7 +26,9 @@ mrQ 是用于计算 SPGR（FLASH）系列扫描的 MR 参数（如 T1 和 PD）�
 获取版本 2: https://github.com/mezera/mrQ/releases/tag/v.2
 
 #软件依赖项
+
 **必需项**
+
 - [Matlab](http://www.mathworks.com/products/matlab/)
   - 需配置的工具包
 - [ANTs](http://stnava.github.io/ANTs/)
@@ -34,6 +36,7 @@ mrQ 是用于计算 SPGR（FLASH）系列扫描的 MR 参数（如 T1 和 PD）�
 - [SPM8](http://www.fil.ion.ucl.ac.uk/spm/software/spm8/)
 
 **可选项**
+
 - [FreeSurfer](http://surfer.nmr.mgh.harvard.edu/)
 - [Parallel computing environment(如，SunGrid 引擎)]
 - DICOM-NIfTI 转换工具
@@ -41,6 +44,7 @@ mrQ 是用于计算 SPGR（FLASH）系列扫描的 MR 参数（如 T1 和 PD）�
   - 也可以使用其他 NIfTI 文件，此时需要手动输入头信息，请见；
 
 **Matlab 代码**
+
 - mrQ
 - [Vistasoft](https://github.com/vistalab/vistasoft)
 - [KNKUtils](https://github.com/kendrickkay/knkutils)
