@@ -54,7 +54,7 @@ mrQ 是用于计算 SPGR（FLASH）系列扫描的 MR 参数（如 T1 和 PD）�
   - 建议使用 [SciTran](http://scitran.github.io/)
   - 也可以使用其他 NIfTI 文件，此时需要手动输入头信息，请见；
 
-### MRI 扫描设置 ### （暂且原文不动）
+### MRI 扫描设置 （暂且原文不动）
 ##### Spoiled gradient echo scans (SPGR, FLASH) #####
 
 1. 2-4 SPGR (not fast SPGR) scans with multiple flip angles recommended (e.g., 4, 10, 20 and 30 degrees).  
